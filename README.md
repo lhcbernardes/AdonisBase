@@ -6,7 +6,7 @@
 
 ### - Clone the Repo
 ### - run-> npm install
-### - connect the data bank of your choice (mysql/sqlite/postgreSQL)
+### - connect the data base of your choice (mysql/sqlite/postgreSQL)
 ### - run-> adonis migrations:run
 
 
